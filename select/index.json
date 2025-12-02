@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Do You",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2025-12-02T09:18:01.298864Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(Do You Love Me) Just Say Yes",
+      "artist": "Highway 101",
+      "has_synced": true,
+      "path": "select/01_(Do_You_Love_Me)_Just_Say_Yes_Highway_101.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do You Believe Me Now",
+      "artist": "Jimmy Wayne",
+      "has_synced": true,
+      "path": "select/02_Do_You_Believe_Me_Now_Jimmy_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do You Know You Are My Sunshine?",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/03_Do_You_Know_You_Are_My_Sunshine_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do You Know You Are My Sunshine? (From \"Smokey And The Bandit 2\" Soundtrack)",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/04_Do_You_Know_You_Are_My_Sunshine__(From__Smokey_And_The_Bandit_2__Soundtrack)_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do You Love As Good As You Look",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/05_Do_You_Love_As_Good_As_You_Look_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do You Love as Good as You Look",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/06_Do_You_Love_as_Good_as_You_Look_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do You Love as Good as You Look? - Live",
+      "artist": "The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/07_Do_You_Love_as_Good_as_You_Look__-_Live_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Do You Wanna Go To Heaven",
+      "artist": "T.G. Sheppard",
+      "has_synced": true,
+      "path": "select/08_Do_You_Wanna_Go_To_Heaven_T.G._Sheppard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do You Wanna Go To Heaven",
+      "artist": "TG Sheppard",
+      "has_synced": true,
+      "path": "select/09_Do_You_Wanna_Go_To_Heaven_TG_Sheppard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do You Wanna Make Something Of It",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/10_Do_You_Wanna_Make_Something_Of_It_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "How Do You Like Me Now?!",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/11_How_Do_You_Like_Me_Now_!_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How Do You Like Me Now?! (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/12_How_Do_You_Like_Me_Now_!_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Wonder Do You Think of Me",
+      "artist": "Keith Whitley",
+      "has_synced": true,
+      "path": "select/13_I_Wonder_Do_You_Think_of_Me_Keith_Whitley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What Do You Say",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/14_What_Do_You_Say_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What Do You Say (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/15_What_Do_You_Say_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "What Do You Say To That",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/16_What_Do_You_Say_To_That_George_Strait.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do You",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Do_You_Ne-Yo.txt"
+    }
+  ]
+}
